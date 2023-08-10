@@ -1,1 +1,21 @@
 Halo Dunia !!
+
+
+1. git init
+	inisialisasi folder sebagai repository
+2. git add.
+	untuk menambahkan file ke staging area
+3. git commit -m "pesan komit"
+	memberikan pesan commit dari versionnya
+4. kalau repo baru?
+	git remote add origin [alamat gitnya]
+	git branch -M main
+5. git push -u [nama_remote] [nama_branch]
+	git push -u origin main
+
+
+Ada perubahan code/file:
+1. save file
+2. add file
+	git add.
+3. git 
