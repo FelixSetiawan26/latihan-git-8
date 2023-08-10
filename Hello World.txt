@@ -18,4 +18,7 @@ Ada perubahan code/file:
 1. save file
 2. add file
 	git add.
-3. git 
+3. git commit
+	git commit -m "pesan komit"
+4. git push
+	git push -u origin main
