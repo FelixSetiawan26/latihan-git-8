@@ -58,9 +58,3 @@ TES KONFLIK :
 4. ubah
 5. tekan make as resolves
 6. merge
-=======
-3. git commit
-	git commit -m "pesan komit"
-4. git push
-	git push -u origin main
->>>>>>> 941c3a58bfdf2835e8a70fec2f988fb979b14364
